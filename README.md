@@ -42,3 +42,15 @@ Display:
   # Output:
   
   ![image](https://user-images.githubusercontent.com/125941580/230756901-db9d2b66-ac56-4269-bea2-85167a42bd27.png)
+  
+  # Applications of Queue Data Structure
+  
+•  CPU Scheduling
+
+• Disk Scheduling
+
+• Asynchronous data transfer between processors such as File IO, etc.
+
+• Breadth-First Search Algorithm (BFS)
+
+
