@@ -37,3 +37,8 @@ Display:
   1.	If front==-1 , print queue is empty 
   2.	Else print the array queue using a for loop with
   counter variable initially set to front incrementing value upto rear .
+  
+  
+  # Output:
+  
+  ![image](https://user-images.githubusercontent.com/125941580/230756901-db9d2b66-ac56-4269-bea2-85167a42bd27.png)
