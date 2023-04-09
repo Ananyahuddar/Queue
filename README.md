@@ -9,10 +9,14 @@ dequeue(): Removes the element from the frontal side of the queue.
 Front: Pointer element responsible for fetching the first element from the queue
 Rear: Pointer element responsible for fetching the last element from the queue
 
-#Algorithm:
+# Algorithm:
+
 1.Declare and set the variable front and rear to -1 initially when queue is empty.
+
 2.Declare the functions : Enqueue , dequeue , Display.
+
 3.Give the options to user in main function to either choose the operation enqueue , dequeue, display ,exit and call the function’s accordingly.
+
 4.Define the functions:
 
  Enqueue:
